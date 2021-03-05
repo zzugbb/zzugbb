@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning RN and Three.js
-
+- 😄 Sharing [My blog](https://zzugbb.github.io/), Hoping it can be updated frequently
 
 
 <!--
