@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=true&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **zzugbb/zzugbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
