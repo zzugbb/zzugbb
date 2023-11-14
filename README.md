@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning RN and Three.js
 
-- 😄 Sharing [awesome-my-website](https://zzugbb.github.io/awesome-my-website/), Learning, Work, Entertainment, My Star, Catch all in one draft.
+- ⚡ Sharing [awesome-my-website](https://zzugbb.github.io/awesome-my-website/), Learning, Work, Entertainment, My Star, Catch all in one draft.
 
 - 😄 Sharing [My blog](https://zzugbb.github.io/), Hoping it can be updated frequently
 
