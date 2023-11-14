@@ -1,7 +1,11 @@
 ### Hello World 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=true&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=tokyonight&card_width=445"/>
+</a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=true&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=tokyonight&card_width=445"/>
 
 
 - 🔭 I’m currently working on Frontend development
