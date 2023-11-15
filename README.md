@@ -12,18 +12,24 @@
 
 #### Top Repositories
 
-<a href="https://github.com/zzugbb/awesome-my-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
-</a>
-<a href="https://github.com/zzugbb/zzugbb.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
-</a>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
+
 
 <br />
 
 <!--
 ### About Me 👋
 **zzugbb/zzugbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://github.com/zzugbb/awesome-my-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
+</a>
+<a href="https://github.com/zzugbb/zzugbb.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
+</a>
 
   
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
