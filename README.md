@@ -1,7 +1,4 @@
-### Hello World 👋
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=true&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=tokyonight&card_width=467&size_weight=0.5&count_weight=0.5"/>
+**About me 👋**
 
 - 🔭 I’m currently working on Frontend development
 
@@ -10,9 +7,27 @@
 - 😄 Sharing [My blog](https://zzugbb.github.io/), Hoping it can be updated frequently
 
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=buefy&size_weight=0.5&count_weight=0.5&hide_border=true" /> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=buefy" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=buefy" />
+</a>
+
+
 
 <!--
+### About Me 👋
 **zzugbb/zzugbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5"/>
 
 Here are some ideas to get you started:
 
