@@ -10,12 +10,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=buefy&size_weight=0.5&count_weight=0.5&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
 
 
 <br />
@@ -23,6 +18,13 @@
 <!--
 ### About Me 👋
 **zzugbb/zzugbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#### Top Repositories
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
 
 <a href="https://github.com/zzugbb/awesome-my-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
