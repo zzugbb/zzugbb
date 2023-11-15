@@ -9,11 +9,12 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=buefy&size_weight=0.5&count_weight=0.5&hide_border=true" /> |
 | ------------- | ------------- |
-
-
-
-
 <br />
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 <!--
 ### About Me 👋
