@@ -12,14 +12,13 @@
 
 #### Top Repositories
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=buefy" />
+<a href="https://github.com/zzugbb/awesome-my-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=buefy" />
+<a href="https://github.com/zzugbb/zzugbb.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
 </a>
 
-<br />
 <br />
 
 <!--
