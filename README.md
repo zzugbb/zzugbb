@@ -28,7 +28,7 @@
 <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <a href="https://github.com/zzugbb/awesome-my-website">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=ambient_gradient" />
 </a>
 
 <!--
