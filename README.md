@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Frontend development
 
-- ⚡ Sharing [awesome-my-website](https://zzugbb.github.io/awesome-my-website/), Learning, Work, Entertainment, My Star, Catch all in one draft.
+- 🌱 Sharing [awesome-my-website](https://zzugbb.github.io/awesome-my-website/), Learning, Work, Entertainment, My Star, Catch all in one draft.
 
-- 😄 Sharing [My blog](https://zzugbb.github.io/), Hoping it can be updated frequently
+- ⚡ Sharing [My blog](https://zzugbb.github.io/), Hoping it can be updated frequently
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=buefy&size_weight=0.5&count_weight=0.5&hide_border=true" /> |
