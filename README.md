@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Gbb. Love Code!" src="./asset/HelloImg.gif"/></p>
+<p align="center"><img width="60%" alt="Hello, I'm Gbb. Love Code!" src="./asset/HelloImg.gif"/></p>
 
 <br />
 
