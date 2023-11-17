@@ -1,3 +1,7 @@
+<p align="center"><img width="80%" alt="Hello, I'm Gbb. Love Code!" src="./asset/HelloImg.gif"/></p>
+
+<br />
+
 **About me 👋**
 
 - 🔭 I’m currently working on Frontend development
