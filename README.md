@@ -10,14 +10,16 @@
 
 - ⚡ Sharing [My blog](https://zzugbb.github.io/), Hoping it can be updated frequently
 
+<br />
 
 | <img align="center" src="https://github-readme-stats-zzugbb.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats-zzugbb.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=buefy&size_weight=0.5&count_weight=0.5&hide_border=true&langs_count=8" /> |
 | ------------- | ------------- |
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zzugbb&theme=radical&hide_border=true" alt="GitHub Streak" />
+<div>
+  <img src="https://streak-stats.demolab.com?user=zzugbb&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
 </div>
+<br />
 
 <code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
