@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://github.com/zzugbb/KVM-Recon">
-  <img align="left" src="https://github-readme-stats-zzugbb.vercel.app/api/pin/?username=zzugbb&repo=KVM-Recon&theme=jolly" />
+  <img align="left" src="https://github-readme-stats-zzugbb.vercel.app/api/pin/?username=zzugbb&repo=KVM-Recon&theme=jolly&cache_seconds=1" />
 </a>
 
 <!--
