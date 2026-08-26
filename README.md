@@ -40,6 +40,10 @@
   <img align="left" src="https://github-readme-stats-zzugbb.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=ambient_gradient" />
 </a>
 
+<a href="https://github.com/zzugbb/KVM-Recon">
+  <img align="left" src="https://github-readme-stats-zzugbb.vercel.app/api/pin/?username=zzugbb&repo=KVM-Recon&theme=jolly" />
+</a>
+
 <!--
 ### About Me 👋
 **zzugbb/zzugbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
