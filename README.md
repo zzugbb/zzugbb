@@ -17,7 +17,7 @@
 <br />
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=zzugbb&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-zzugbb.vercel.app?user=zzugbb&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 <br />
 
