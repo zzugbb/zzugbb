@@ -1,79 +1,92 @@
-<p align="center"><a href="https://github.com/zzugbb/zzugbb"><img width="60%" alt="Hello, I'm Gbb. Love Code!" src="./asset/HelloImg.gif"/></a></p>
+<p align="center">
+  <img src="asset/hero.svg" width="100%" alt="Hello, I'm GBB. Love Code.">
+</p>
 
-<br />
+<p align="center">
+  <strong>前端开发 · AI 探索 · Love Code</strong>
+</p>
 
-**About me 👋**
+<p align="center">
+  <a href="#精选项目">精选项目</a> ·
+  <a href="#关于我">关于我</a> ·
+  <a href="#记录与分享">记录与分享</a> ·
+  <a href="https://github.com/zzugbb?tab=repositories">全部仓库 ↗</a>
+</p>
 
-- 🔭 I’m currently working on Frontend development
+## 你好，我是 GBB。
 
-- 🌱 Sharing [awesome-my-website](https://zzugbb.github.io/awesome-my-website/), Learning, Work, Entertainment, My Star, Catch all in one draft.
+以前端开发为主，持续探索 AI。喜欢把想法做成能用、能体验的作品。
 
-- ⚡ Sharing [My blog](https://zzugbb.github.io/), Hoping it can be updated frequently
+## 精选项目
 
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://zzugbb.github.io/InsightAgent/"><img src="asset/insightagent.svg" width="100%" alt="InsightAgent：检索、Agent、工具和回答之间的关联"></a>
+<h3><a href="https://github.com/zzugbb/InsightAgent">InsightAgent</a></h3>
+<p><strong>可视化、可解释的 AI Agent 工作台</strong></p>
+<p>知识检索 · 工具执行 · 轨迹复核</p>
+<p>查看工具实际执行过程，<br>沿引用来源与执行轨迹复核回答依据。</p>
+<p><sub>React · TypeScript · Python</sub></p>
+<p><a href="https://github.com/zzugbb/InsightAgent">仓库 ↗</a> · <a href="https://zzugbb.github.io/InsightAgent/">在线展示 ↗</a> · <a href="https://github.com/zzugbb/InsightAgent#项目演示">演示视频 ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://zzugbb.github.io/KVM-Recon/"><img src="asset/kvm-recon.svg" width="100%" alt="KVM-Recon：浏览器观测、原始证据和 Capture Pack"></a>
+<h3><a href="https://github.com/zzugbb/KVM-Recon">KVM-Recon</a></h3>
+<p><strong>BMC / HTML5 KVM 离线证据采集</strong></p>
+<p>原始事实 · 完整度检查 · 校验导出</p>
+<p>保留现场浏览器证据，生成可校验的 Capture Pack，离场后继续分析。</p>
+<p><sub>Electron · React · TypeScript</sub></p>
+<p><a href="https://github.com/zzugbb/KVM-Recon">仓库 ↗</a> · <a href="https://zzugbb.github.io/KVM-Recon/">在线展示 ↗</a> · <a href="https://github.com/zzugbb/KVM-Recon#项目演示">演示视频 ↗</a></p>
+</td>
+</tr>
+</table>
 
-| <img align="center" src="https://github-readme-stats-zzugbb.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=buefy&count_private=true&include_all_commits=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats-zzugbb.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=buefy&size_weight=0.5&count_weight=0.5&hide_border=true&langs_count=8" /> |
-| ------------- | ------------- |
-<br />
+## 关于我
 
-<div>
-  <img src="https://github-readme-streak-stats-zzugbb.vercel.app?user=zzugbb&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
-</div>
-<br />
+喜欢尝试不同类型的项目，也记录过程中的实践与思考。在这里分享代码、作品和用过的实用资源。
 
-<code><img height="30" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" alt="jquery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" alt="Ajax" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png"></code>
+<p>
+  <img src="asset/icons/typescript.svg" width="126" height="40" alt="TypeScript"> &nbsp;
+  <img src="asset/icons/react.svg" width="94" height="40" alt="React"> &nbsp;
+  <img src="asset/icons/javascript.svg" width="131" height="40" alt="JavaScript"> &nbsp;
+  <img src="asset/icons/vuejs.svg" width="82" height="40" alt="Vue"> &nbsp;
+  <img src="asset/icons/html5.svg" width="92" height="40" alt="HTML"> &nbsp;
+  <img src="asset/icons/css3.svg" width="81" height="40" alt="CSS">
+</p>
+<p>
+  <img src="asset/icons/python.svg" width="105" height="40" alt="Python"> &nbsp;
+  <img src="asset/icons/nodejs.svg" width="114" height="40" alt="Node.js"> &nbsp;
+  <img src="asset/icons/electron.svg" width="120" height="40" alt="Electron"> &nbsp;
+  <img src="asset/icons/git.svg" width="77" height="40" alt="Git">
+</p>
 
-<code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" alt="webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="30" alt="npm" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="30" alt="eslint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+## 记录与分享
 
-<code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" alt="Vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+**[awesome-my-website](https://github.com/zzugbb/awesome-my-website)** · [访问网站 ↗](https://zzugbb.github.io/awesome-my-website/)<br>
+收藏导航：整理学习、工具、搭建部署与生活娱乐中用过的网站。
 
-<a href="https://github.com/zzugbb/awesome-my-website">
-  <img align="left" src="https://github-readme-stats-zzugbb.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=ambient_gradient" />
-</a>
+**[个人博客](https://github.com/zzugbb/zzugbb.github.io)** · [访问博客 ↗](https://zzugbb.github.io/)<br>
+留下技术实践、学习与思考的记录。
 
-<a href="https://github.com/zzugbb/KVM-Recon">
-  <img align="left" src="https://github-readme-stats-zzugbb.vercel.app/api/pin/?username=zzugbb&repo=KVM-Recon&theme=jolly&t=2"/>
-</a>
+## 持续动手
 
-<!--
-### About Me 👋
-**zzugbb/zzugbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/zzugbb">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats-zzugbb.vercel.app/?user=zzugbb&amp;locale=zh_Hans&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=F6B94A&amp;fire=F78250&amp;currStreakNum=F6B94A&amp;sideNums=F6B94A&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;disable_animations=true&amp;card_width=420&amp;card_height=195">
+      <img width="100%" src="https://github-readme-streak-stats-zzugbb.vercel.app/?user=zzugbb&amp;locale=zh_Hans&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=F6B94A&amp;fire=F78250&amp;currStreakNum=F6B94A&amp;sideNums=F6B94A&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;disable_animations=true&amp;card_width=820&amp;card_height=170" alt="GitHub 贡献统计：累计贡献、当前连续天数与最长连续纪录，数据由自维护服务自动更新">
+    </picture>
+  </a>
+</p>
 
-#### Top Repositories
+---
 
+<p align="center">
+  最困难的事情就是认识自己。<br>
+  <sub>GBB · Love Code</sub>
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
-
-<a href="https://github.com/zzugbb/awesome-my-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=awesome-my-website&theme=radical" />
-</a>
-<a href="https://github.com/zzugbb/zzugbb.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzugbb&repo=zzugbb.github.io&theme=tokyonight" />
-</a>
-
-  
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=zzugbb&hide_title=false&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzugbb&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5"/>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  欢迎交流前端开发、AI 应用与有趣的项目。<a href="https://github.com/zzugbb/InsightAgent/issues">项目交流 ↗</a>
+</p>
