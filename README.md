@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="asset/hero.gif" width="100%" alt="Hello, I'm GBB. Love Code. GBB 积木依次落下搭起。">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="asset/hero-static.webp">
+    <img src="asset/hero.gif" width="100%" alt="Hello, I'm GBB. Love Code. GBB 积木搭建、回弹与浮动动画。">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="asset/typing.gif" width="90%" alt="Frontend first. Exploring AI. Websites, apps, games — and whatever comes next. Keep learning. Keep building. Love Code.">
+  <img src="asset/typing.svg" width="85%" alt="Frontend Developer · Exploring AI · Keep Building. Love Code.">
 </p>
 
 <p align="center">
@@ -41,7 +44,7 @@
 
 ## 关于我
 
-喜欢尝试不同类型的项目，也记录过程中的实践与思考。在这里分享代码、作品和用过的实用资源。
+在这里分享作品，也记录实践与思考。
 
 <p>
   <img src="asset/icons/typescript.svg" width="126" height="40" alt="TypeScript"> &nbsp;
@@ -57,13 +60,13 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://zzugbb.github.io/awesome-my-website/"><img src="asset/collection.webp" width="100%" alt="收藏导航：暖色积木资料库与书签卡片"></a>
+<p align="center"><a href="https://zzugbb.github.io/awesome-my-website/"><img src="asset/collection.webp" width="78%" alt="收藏导航：暖色积木资料库与书签卡片"></a></p>
 <h3><a href="https://github.com/zzugbb/awesome-my-website">收藏导航</a></h3>
 <p>把用过的好网站，放在一起。</p>
 <p><a href="https://zzugbb.github.io/awesome-my-website/">访问网站 ↗</a> · <a href="https://github.com/zzugbb/awesome-my-website">仓库 ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://zzugbb.github.io/"><img src="asset/blog.webp" width="100%" alt="个人博客：暖色积木笔记本与写作卡片"></a>
+<p align="center"><a href="https://zzugbb.github.io/"><img src="asset/blog.webp" width="78%" alt="个人博客：暖色积木笔记本与写作卡片"></a></p>
 <h3><a href="https://github.com/zzugbb/zzugbb.github.io">个人博客</a></h3>
 <p>留下实践、学习与思考的记录。</p>
 <p><a href="https://zzugbb.github.io/">访问博客 ↗</a> · <a href="https://github.com/zzugbb/zzugbb.github.io">仓库 ↗</a></p>
@@ -74,8 +77,14 @@
 ## 代码足迹
 
 <p align="center">
-  <a href="https://github.com/zzugbb"><img width="49%" src="https://github-readme-streak-stats-zzugbb.vercel.app/?user=zzugbb&amp;locale=zh_Hans&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=F6B94A&amp;fire=F78250&amp;currStreakNum=F6B94A&amp;sideNums=F6B94A&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;disable_animations=true&amp;card_width=440&amp;card_height=195" alt="GitHub 贡献统计：累计贡献、当前连续天数与最长连续纪录，自动更新"></a>
-  <a href="https://github.com/zzugbb?tab=repositories"><img width="49%" src="https://github-readme-stats-zzugbb.vercel.app/api/top-langs/?username=zzugbb&amp;layout=compact&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0d1117&amp;title_color=f6b94a&amp;text_color=c9d1d9&amp;card_width=440&amp;custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&amp;locale=cn" alt="常用语言：公开仓库语言分布，由自维护服务自动更新"></a>
+  <a href="https://github.com/zzugbb"><picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-zzugbb.vercel.app/?user=zzugbb&amp;locale=zh_Hans&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=D1D9E0&amp;ring=B56500&amp;fire=C9502B&amp;currStreakNum=B56500&amp;sideNums=B56500&amp;currStreakLabel=1F2328&amp;sideLabels=1F2328&amp;dates=59636E&amp;disable_animations=true&amp;card_width=440&amp;card_height=195">
+      <img width="49%" src="https://github-readme-streak-stats-zzugbb.vercel.app/?user=zzugbb&amp;locale=zh_Hans&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=F6B94A&amp;fire=F78250&amp;currStreakNum=F6B94A&amp;sideNums=F6B94A&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;disable_animations=true&amp;card_width=440&amp;card_height=195" alt="GitHub 贡献统计：累计贡献、当前连续天数与最长连续纪录，自动更新">
+    </picture></a>
+  <a href="https://github.com/zzugbb?tab=repositories"><picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-zzugbb.vercel.app/api/top-langs/?username=zzugbb&amp;layout=compact&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide_border=true&amp;langs_count=8&amp;bg_color=ffffff&amp;title_color=a95800&amp;text_color=1f2328&amp;card_width=440&amp;custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&amp;locale=cn&amp;disable_animations=true">
+      <img width="49%" src="https://github-readme-stats-zzugbb.vercel.app/api/top-langs/?username=zzugbb&amp;layout=compact&amp;size_weight=0.5&amp;count_weight=0.5&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0d1117&amp;title_color=f6b94a&amp;text_color=c9d1d9&amp;card_width=440&amp;custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&amp;locale=cn&amp;disable_animations=true" alt="常用语言：公开仓库语言分布，由自维护服务自动更新">
+    </picture></a>
 </p>
 
 <p align="center">

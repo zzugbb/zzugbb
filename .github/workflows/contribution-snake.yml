@@ -33,7 +33,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             asset/contributions.svg?color_snake=#f6b94a&color_dots=#161b22,#5b3541,#ae536d,#ed8660,#f6b94a
-            asset/contributions-light.svg?color_snake=#f6b94a&color_dots=#ebedf0,#5b3541,#ae536d,#ed8660,#f6b94a
+            asset/contributions-light.svg?color_snake=#c66a05&color_dots=#ebedf0,#5b3541,#ae536d,#ed8660,#f6b94a
 
       - name: 仅更新生成的图片
         run: |
