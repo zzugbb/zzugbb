@@ -40,6 +40,16 @@
 <p><a href="https://github.com/zzugbb/KVM-Recon">仓库 ↗</a> · <a href="https://zzugbb.github.io/KVM-Recon/">在线展示 ↗</a> · <a href="https://github.com/zzugbb/KVM-Recon#项目演示">演示视频 ↗</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://zzugbb.github.io/Seemingly/"><img src="asset/seemingly.svg" width="100%" alt="Seemingly 积木错位：等距积木、青绿机关与金色光点的概念配图"></a>
+<h3><a href="https://github.com/zzugbb/Seemingly">Seemingly</a></h3>
+<p><strong>积木错位 · 等距视角解谜游戏</strong></p>
+<p>错觉连通 · 机关乘坐 · 原创音乐</p>
+<p><a href="https://github.com/zzugbb/Seemingly">仓库 ↗</a> · <a href="https://zzugbb.github.io/Seemingly/">在线游玩 ↗</a> · <a href="https://github.com/zzugbb/Seemingly#项目演示">演示视频 ↗</a></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## 关于我
